@@ -7,3 +7,6 @@ Cons of Agile Development:
 
 
 A Scrum Master is a person that focuses on collaboration between the team members, trying to make sure everyone is on the same page of a project. A Project Owner is someone who is responsible for the project's vision and prioritizing different features to maximize the value for the customer. Additionally, they act as a link between the customer and the project team.
+
+
+The three types of meetings that happen during a sprint cycle are a planning meeting, a standup meeting, and a retrospective meeting. In a planning meeting, the team needs o determine what to complete in the coming sprint as well as determine story points and assign stories to their appropriate teams. In a standup meeting, team members discuss work completed as well as what the plan for that day is. In a retrospective meeting, the team discusses the work that has been completed and move incommplete work to the backlog.
