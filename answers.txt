@@ -10,3 +10,6 @@ A Scrum Master is a person that focuses on collaboration between the team member
 
 
 The three types of meetings that happen during a sprint cycle are a planning meeting, a standup meeting, and a retrospective meeting. In a planning meeting, the team needs o determine what to complete in the coming sprint as well as determine story points and assign stories to their appropriate teams. In a standup meeting, team members discuss work completed as well as what the plan for that day is. In a retrospective meeting, the team discusses the work that has been completed and move incommplete work to the backlog.
+
+
+In JIRA, an Epic captures a large body of work that can be broken down into several smaller stories. A story is a project requirement that has a short description. A bug is an issue within the project and often leads to other parts of the project being blocked. A task is a unit of work that needs to be completed to finish a story.
