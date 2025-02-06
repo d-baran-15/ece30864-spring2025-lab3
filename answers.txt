@@ -6,3 +6,4 @@ Cons of Agile Development:
 - May be difficult to coordinate with other co-workers on a project
 
 
+A Scrum Master is a person that focuses on collaboration between the team members, trying to make sure everyone is on the same page of a project. A Project Owner is someone who is responsible for the project's vision and prioritizing different features to maximize the value for the customer. Additionally, they act as a link between the customer and the project team.
